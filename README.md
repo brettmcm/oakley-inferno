@@ -3,7 +3,6 @@ This repo contains the consolidated code from a brochure page built to launch Oa
 
 * HTML
 * Javascript
-* Flickity JS
 * Greensock
 * ScrollMagic
 
