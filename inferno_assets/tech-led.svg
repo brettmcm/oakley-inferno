@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="311px" height="196px" viewBox="0 0 311 196" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.2 (33826) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <radialGradient cx="50%" cy="50%" fx="50%" fy="50%" r="45.7055215%" id="radialGradient-1">
+            <stop stop-color="#43FF00" stop-opacity="0.623188406" offset="0%"></stop>
+            <stop stop-color="#43FF00" stop-opacity="0.210144928" offset="49.4897959%"></stop>
+            <stop stop-color="#43FF00" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="58.041958%" cy="50%" fx="58.041958%" fy="50%" r="45.7055215%" id="radialGradient-2">
+            <stop stop-color="#43FF00" stop-opacity="0.623188406" offset="0%"></stop>
+            <stop stop-color="#43FF00" stop-opacity="0.210144928" offset="49.4897959%"></stop>
+            <stop stop-color="#43FF00" stop-opacity="0" offset="100%"></stop>
+        </radialGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="inferno-comp-02b" transform="translate(-255.000000, -5985.000000)">
+            <g id="tech" transform="translate(20.000000, 5583.000000)">
+                <g id="image" transform="translate(651.000000, 552.500000) scale(-1, 1) translate(-651.000000, -552.500000) translate(220.000000, 361.000000)">
+                    <g id="Group-7" transform="translate(521.000000, 32.000000)">
+                        <ellipse id="Oval" fill="url(#radialGradient-1)" cx="170.5" cy="107" rx="170.5" ry="107"></ellipse>
+                        <ellipse id="Oval" fill="url(#radialGradient-2)" cx="170.5" cy="107" rx="71.5" ry="32.9472141"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
